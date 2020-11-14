@@ -1,5 +1,5 @@
 body{
-    background-image: url(quotes.jpg);
+    background-image: url(shop.jpg);
     background-size: 100vmax;
 }
 h3{
@@ -11,10 +11,12 @@ h3{
     background-color: #333;
   }
 img{ width: 120px;
-    height: 90px;}
+    height: 90px;
+}
 table{
-    border: 1px solid black;
-    width: 100%;
+    
+    width: 70%;
+    height: 90%;
 }
 td{
     width: 10px;
@@ -109,7 +111,7 @@ a:link, a:visited {
     transition: .5s ease;
     opacity:0;
     color: white;
-    font-size: 20px;
+    font-size: 12px;
     padding: 20px;
     text-align: center;
 
@@ -123,7 +125,7 @@ a:link, a:visited {
     background-color: #555;
     color: white;
     font-size: 16px;
-    padding: 12px 24px;
+    padding: 10px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;

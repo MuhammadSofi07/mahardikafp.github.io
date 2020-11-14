@@ -2,6 +2,14 @@ img{
     width: 120px;
     height: 90px;
 }
+header{
+  text-align: left;
+  background-color: white;
+  background-size: 90px;
+  font-family: serif;
+  font-size: 9mm;
+  text-transform: uppercase;
+}
 .navbar {
   overflow: hidden;
   background-color: #333;
